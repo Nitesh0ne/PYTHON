@@ -8,3 +8,6 @@ myAge =int( input() )
 print(name)
 bornYear = 2024 -25 
 print("Born in : ",bornYear)
+
+#list all the built in funciton 
+print(dir(__builtins__))
