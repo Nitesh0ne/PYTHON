@@ -9,4 +9,5 @@ March 26 : Day 2
     --> Built in Function
 
 March 27 : day 3 
+    --> variables
     --> 
