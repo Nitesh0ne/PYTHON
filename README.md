@@ -6,3 +6,9 @@ March 27 : Day 2
     -->  python variables and types.
     --> python print() and input() funciton
     --> Built in Function
+
+March 28 : Day 3
+    --> Executing First Script .py 
+    -->
+    -->
+    -->
