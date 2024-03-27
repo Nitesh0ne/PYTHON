@@ -1,0 +1,2 @@
+python is not a compiler language.
+python is interepreted language = not require compiler like java & C++

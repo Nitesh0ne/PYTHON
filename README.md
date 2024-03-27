@@ -1,4 +1,4 @@
-channel : programmingknowledege
+channel : Jenny's Lectures CSIT
 March 25 : Day 1 
     --> installation and python setup in computer  
     
@@ -9,3 +9,4 @@ March 26 : Day 2
     --> Built in Function
 
 March 27 : day 3 
+    --> 
