@@ -1,6 +1,3 @@
 python is not a compiler language.
 python is interepreted language = not require compiler like java & C++
 
-variables are container to store value 
-python is loose type = no need to declare the variable 
-
