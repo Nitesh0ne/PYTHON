@@ -14,3 +14,8 @@ March 27 : Day 3
 March 28 : Day 4
     --> Data types in python
     --> Type Casting, Type Conversion 
+    --> operator in python 
+
+April 1 : Day 5 
+    --> Assignment operator
+    --> Comparison Operator
