@@ -1,7 +1,6 @@
 
 
 
-
 March 14 = Day 1 of Learning python 
 --> installation 
 --> Hello world Program 
@@ -131,3 +130,29 @@ in tuple data are fixed we cannot change the data
 
 Syntax :
 t1 = (1,2,3,4,5,6,7)
+
+------------------------------------------------------
+ARRAY 
+
+2 types of Array 
+
+1. Numeric Array 
+	a. one Dimension array 
+	b. Two Dimension array
+
+2. Associative aArray 
+	indexing can be set 
+	(like map class in c++)
+
+-----------------------------------------------------
+Functions = 
+	Piece of code that can be repeated.
+
+syntax:
+1. Defining a function
+	def function_name():
+		body
+2. Calling a function
+	function_name() 
+
+inline function 
