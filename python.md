@@ -54,3 +54,28 @@ Base Conversion:
 Binary      : bin()
 Octal       : oct()
 Hexadecimal : Hex()
+
+----------------------
+complex number = (ai+bj)  form
+ j^2 = -1
+a = real part 
+b = imaginary part
+
+---------------------------
+Boolean :
+True& False 
+True : 1 
+False : 0  
+
+-----------------
+String = array of character
+"""" """"  = doc string ==> doc string are enclosed by triple single or double quotation
+
+-------------------
+Type Casting = changeing the data type of one variable into another
+
+------------------------------------------
+Fundamental Data Type : int , float, complex, string, boolean ==> fundamental data are immutable
+
+Fundamental vs Immutablility
+
