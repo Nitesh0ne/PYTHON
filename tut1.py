@@ -1,9 +1,7 @@
-Age = 26
-vbin = 0b1111
-print(type(Age))
-print(id(Age))
-print(bin(Age))
-print(oct(Age))
-print(hex(Age))
-print(vbin)
+a = 10e3
+print(a)
+b = 12.3e3
+print(b)
 
+c = 20.45e4
+print(c)

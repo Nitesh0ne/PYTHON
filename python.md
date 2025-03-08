@@ -1,13 +1,11 @@
 channel : 15 minute coding
-
 Day1 : Introduction and Installation
-
     Python is open-source, freeware, general purpose, functional, Object oriented Programming language.
 ==============================================================
 Day 2: Identifiers
 
 Identifiers: name given to variable, method, function 
-
+Identifier is case Sensitive.
 Naming convention:
 1. Allowed character for identifier : a-z, A-Z, 0-9 and _
 2. Identifier cannot start from number.
@@ -75,7 +73,47 @@ String = array of character
 Type Casting = changeing the data type of one variable into another
 
 ------------------------------------------
-Fundamental Data Type : int , float, complex, string, boolean ==> fundamental data are immutable
+Fundamental Data Type : int , float, complex, string, boolean ==> fundamental data are immutable, if andy changes happen a new object is created
+
 
 Fundamental vs Immutablility
 
+ 
+-------------------------------------------------
+List :
+
+Tuple :
+
+Set  : 
+Duplicate value are not allowed.
+Heterogenous object are allowed and ther are mutable. 
+Insertion order are not preserved.
+
+n = {1,2,3,4}
+
+
+FrozenSet : 
+set but immutable (we cannot add an element)
+syntax : 
+fn = {1,2,3,4} ==> frozen set of n 
+
+Dictionary : 
+
+
+Range :
+
+
+
+Bytes: 
+=========================================================
+Core Python in Nepali | Session 6 
+
+TERNARY OPERATOR:
+
+Nesting of Ternary operator :
+
+min = a if a < b and a < c else b if b > c else c f
+
+
+============================================================
+Core Python in Nepali | Session 7
