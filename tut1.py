@@ -1,7 +1,10 @@
-a = 10e3
+a = "10"
+print("Before Typecasting")
 print(a)
-b = 12.3e3
-print(b)
+print(type(a))
 
-c = 20.45e4
-print(c)
+
+print("After Typecasting")
+b = bool(a)
+print(b)
+print(type(b))
