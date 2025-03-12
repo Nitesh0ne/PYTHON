@@ -1,18 +1,26 @@
-### List 
-al = [0,"a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"]
-count = 0 
-for i in al :
-    if i == 0 :
-     count = 0 
-    else :
-       count = count + 1
-       print(i,end=",")
+# # # fundamental_datatype = ("int","float","complex","string","Boolean","byte","bytearray","Range")
+# # # count = 0 
+# # # print("Fundamental Data Type in python are :")
+# # # for i in fundamental_datatype :
+# # #     count = count+1 
+# # #     print(count,".",i)
 
-print(count)
+# # age = 26 
+# # print(age)
+# # print(id(age))
 
-print(al[26])
+# # age = 27 
+# # print(age)
+# # print(id(age))
 
 
-t = (1,2,"nitesh")
-print(t)
-print(type(t))
+# # # Collection Related Data type
+# # collection_datatype = ("List","tuple","set","Frozenset","dictionary","Range","")
+
+
+
+# l1 = [1,2,3,4,5,6,7,8,9,"one","two",9]
+
+##fundamental_datatype = ("int","float","complex","string","Boolean","byte","bytearray","Range")
+## print(fundamental_datatype)
+
