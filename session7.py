@@ -1,10 +1,4 @@
-# a = int(input("Enter Two numbers : "))
-# print(a)
-# b = a.split()
+f_name = "Nitesh"
+l_name = "Nepali"
 
-
-#  Eval Function 
-
-x = eval(input("Enter anything : "))
-
-print(type(x))
+print(f"My name is {f_name} {l_name}")
