@@ -252,4 +252,97 @@ List Unpacking.
 
 Eval(Evaluate) Function :
  automatically type caste the value.
+
+e.g 
+    a = eval(input("Enter the numbers :"))
+---------------------------------------------
+Command Line Arguments :
+    CLA are the value given in terminal while running a program.
+
+=> from sys import argv
+
+> String Formating = giveing vairable name in print statement
+e.g print(f"My name is {f_name}") // f : string formating
+--------------------------------------------
+Session 9 :
+2. Iterative Statement || Loop 
+    a. For Loop
+     b. While Loop 
+
+There is no provision of do  while Loop in python.
+
+ a. FOR LOOP 
+Syntax :
+    for x in sequence : 
+        BODY 
+ ------------------------
+ b. WHILE LOOP 
+
+ syntax; 
+    while condition :
+        BODY 
+------------------------
+Nested Loop:
+Loop inside Loop.
+
+
+for i in range(2):
+    for j in range(2):
+        print(i,j)
+-------------------------
+Transfer Statement:
+a. break. 
+b. Continue.
+c. Pass 
+
+===========================================================
+
+Session 10 :
+
+String 
+    String is the colletion of characters. In python string are enclosed by the single, double quotation or triple quotation.(',"",""").
+
+syntax : 
+    f_name = "nitesh" or 'nitesh' or '''nitesh''' all are valid
  
+ String Operation : 
+    a. Indexing 
+    b. Slicing
+
+
+Mathematical Operation For String
++ operator or Concatenation Operator 
+* string Repeatation Operator (Repeat the String)
+
+Membership Operator in String: 
+in and not in python 
+
+Comparison Operator in string :
+<,>, <=,>= , == ,!=
+
+
+Finding Substring:
+There are four function for finding substring :
+1. find() 
+2. rfind()
+3. index()
+4. rindex()
+
+Note* If there is not any reference variable for object. Object is destroyed or it is eligibel for garbage collection
+
+==============================================================
+Collection Related Datatype 
+List, Tuple, set, Dictionary 
+
+1. List :
+    Insertion  order i,e indexing are preserved.
+    Duplicated value are allowed.
+
+Traversing the list :
+    1. while Loop 
+    2. For Loop
+
+
+Important function of List
+1. To get information about the list.
+    len(),count(),index()
