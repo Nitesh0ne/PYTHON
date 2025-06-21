@@ -60,3 +60,31 @@ Data Types : what type of the data is like integer, float , character, string bu
 session 3:
 3. Complex :
     complex number = in the form of (a + bj) e.g 1+2j 
+
+4. Boolean : True, False and None is are boolean data type
+    True = 1, False = 0 
+
+5. String :  Collection of character.
+
+"""
+doc 
+string
+"""
+
+Slicing  of String :
+
+
+# Type Casting : converting one data type into another
+Fundamental data type : int, float, complex, bool, string
+
+# Fundamental data types vs Immutability 
+
+- All fundamental data types are immutable. Once we create an object, we cannot perform any changes in that object. If we try to change, with those changes a new object is created
+e,g 
+a = 10 
+print(id(a))
+
+a =20
+print(id(a))
+
+garbage collector detroy the a =10 
