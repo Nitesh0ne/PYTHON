@@ -20,10 +20,43 @@ Why is python.
     python + java = jython
 - python is embedded 
 
-
-
-
-Interpreted vd Complied langauge
-anaconda python
+* Interpreted vd Complied langauge
+* anaconda python
 
 =================================================
+Session 2:
+
+Identifiers : name given to variable , function , method , class 
+
+Naming Convention:
+- allowed character a-z, A-Z, 0-9 and _  only.
+- cannot start with digit.
+- Identifier are case Sensitive.
+- Reserved word are not allowed
+
+* _a    = Private variables
+* __a   = protected variables
+* __a__ = Magic vaiables, Dunder Variables
+
+
+Reserved words:  cannot use as  identifers.
+ List the total keyword in python.   
+    import keyword
+    print(keyword.kwlist) 
+
+
+Data Types : what type of the data is like integer, float , character, string but in  python we do not define the data type. That's why it is dynamically typed
+
+- there are total 14 data types in python 
+1.Integer, 2.Float, 3.Complex, 4.Boolean, 5.String, 6.Byte, 7.ByteArray, 8.Range, 9.List, 10.Tuple, 11.Set, 12.FrozenSet, 13.Dictionary, 14.None
+
+1. Integer 
+- can be represented as binary, decimal, octal or hexadecimal
+    binary 0b10101 , ocatal 0o1234, decimal 243, hexadeximal 0xf45
+
+2. Float : there is decimal number e.g 10.023 
+
+==============================================
+session 3:
+3. Complex :
+    complex number = in the form of (a + bj) e.g 1+2j 

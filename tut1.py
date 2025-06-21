@@ -1,13 +1,4 @@
-print("Hello world")
-
-a = 10
-print(type(a))
-
-a = 10.023
-print(type(a))
-
-a = 'c'
-print(type(a))
-
-a = "nitesh"
+# comlex number 
+a =  2j + 5
+print(a)
 print(type(a))
