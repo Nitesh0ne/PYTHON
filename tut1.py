@@ -1,4 +1,3 @@
-a = 10 
-print(id(a))
-a =20
-print(id(a))
+b = [10,20,30,40]
+by = bytes(b)
+print  (type(by))

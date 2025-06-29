@@ -88,3 +88,32 @@ a =20
 print(id(a))
 
 garbage collector detroy the a =10 
+
+===========================================================
+Session 4 :
+Collection related datatype:
+list, tuple, set, frozenset, dict, range, bytes, bytesarray
+
+i. List =  insertion order are preserved, duplicate values are allowed, heteregenous object are allowed.
+e.g list_name = [12, 10.5 "value2", 12]
+    list_name = [] # empty list
+someof method in list:
+    append(), remove(), 
+
+ii. Tuple : Exactly as list but immutable.
+    e.g tuple_name = (1,) : , is necessary
+
+iii. Set : Duplicate value are allowed and insertion order are not preserved
+
+Frozenset = ther are immutable
+
+iv. Dictionary: 
+        key vlaue pair
+
+v.  Range: sequence of number
+
+vi. bytes : Collctionn of bytes. 
+
+e.g b = [10,20,30,40]
+by = bytes[b]
+print  (type(by))
