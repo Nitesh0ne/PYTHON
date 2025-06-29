@@ -1,3 +1,12 @@
-b = [10,20,30,40]
-by = bytes(b)
-print  (type(by))
+# 1. Arithmetic Operator 
+# + : Addition
+# - : Subtraction 
+# * : Multiplication
+# / : Division 
+# % : Modulo operator
+# // : Floor division
+# ** : Power Operator
+
+ 
+# 2. Relational Operator : > , < , >= , <= , != 
+

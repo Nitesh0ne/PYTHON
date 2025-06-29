@@ -117,3 +117,51 @@ vi. bytes : Collctionn of bytes.
 e.g b = [10,20,30,40]
 by = bytes[b]
 print  (type(by))
+
+===============================================
+Session 5:
+
+Escape Sequensce
+
+>  there is no provision of constant variable in python . but in python there a practice of  making constant  variable by representating variable by Capital letter.
+
+MAX_VALUE = 10 // constant variable 
+
+Comment in python 
+ # is used for python 
+
+ no multi line python 
+
+
+Operator in python
+1. Arithmetic Operator 
+2. Relational Operator / Comparison Operator
+3. Logical Operator 
+4. Bitwise Operator
+5. Assignment Operator
+6. Equality Operator 
+7. Shift Operator 
+8. Ternary Operator
+9. Special Operator 
+    i. Identity Operator 
+    ii. Membership Operator
+
+1. Arithmetic Operator:
+2. Reltional Operator:
+    ord("A") : print the ascii value of A 
+    
+    Chainig of Relational Operator:  
+    e.g 10<20<30<40<50 
+
+3. Logical Operator :  and or  not 
+ if x is true then y : result x
+ if x is false then y : result y 
+
+
+ 4. Bitwise Operator: 
+    
+
+6. Equality Operator: == , !=
+
+
+
