@@ -202,6 +202,40 @@ python outpur statement
  sep="|" : seperator
  end=" "
 
+===========================================================
+Session 8 
+Flow Control In python
+    in python flow control of code is managed by indentation
 
+1. conditional Statement 
+    if, if-elif , if-elif-else, if-elif
+    switch
+2. Iterative statement /Loop
+    for and while 
+3. Transfer Statement
+     break and continue
 
+1. Conditionsal statement
+    i. if <condition>:
+             code
+    ii. if <condition>:
+            if condition is true
+        else:
+            if condition is false
+    iii. if <condition 1>:
+            if condition1 is true
+        elif <condition 2>: 
+            if condition 2 is true
+        else:
+            if all avobe condition is false
+iv Switch statement
 
+sub = input("Enter  a fav sub of Engineering :")
+
+# # match sub:
+# #     case "DSA":
+# #         print("")
+# #     case "MAth":
+# #         print("")
+# #     case _:
+# #         print("no subject")
