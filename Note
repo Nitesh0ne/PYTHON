@@ -163,5 +163,45 @@ Operator in python
 
 6. Equality Operator: == , !=
 
+7. Ternary Operator / conditional Operator :
+    syntax: x = first value if condition else second value:
+    e,g a = 
+
+8. Special Operator: 
+    i. Identity Operator: 
+        a. is 
+        b. is not 
+        both are used for address comparison of variable 
+
+        is and == 
+        is check the address of variable while == check the value of variable.
+
+    ii. Membership Operator:
+        a. in 
+        b. not in 
+
+
+Math Module:
+
+===========================================================
+Session 7: 
+
+Python Input
+
+> List Comprehensive 
+> Unpacking Of List
+> eval function
+> Command line Argument
+# NOTE : IN COMMAND LINE ARGUMENT ALWAYS USE DOUBLE QUOTATION FOR STRING
+
+argeparse
+
+python outpur statement 
+> string concatenation and string repetition
+
+ sep="|" : seperator
+ end=" "
+
+
 
 
