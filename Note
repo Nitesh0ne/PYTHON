@@ -239,3 +239,46 @@ sub = input("Enter  a fav sub of Engineering :")
 # #         print("")
 # #     case _:
 # #         print("no subject")
+
+==================================================
+Session 9:
+Iterative Statement(Loop)
+
+1. FOR LOOP  (used when the no of iteration is fixed and wll  known)
+
+syntax: for x in sequence:
+            code
+
+2. While LOop(Loop run until the condition is true )
+
+3. Loop with else block (else will run when loop is executed)
+for x in sequence:
+
+else
+    
+# Transefer Statement
+1. break : brak the loop 
+2. continue : skip the loop
+3. pass 
+4. del statement : used to delete the refrence , does not delete the object
+5. None 
+6. difference between None and del
+    None : 
+    del  :
+
+assignment : 
+WAP to print prime number , string number , palindrome number, oerfect number , armstring number, fibonacci number, hasrshad (niven) number, twin number , trianglur number,
+
+==========================================================
+Session 10:
+String :
+Enclose with '' , double "" , or triple '''''',
+triple '''df''' = it is called doc strign
+
+
+Accessing the characters of a string:
+    indexing and slicing
+
+string repetation :
+sstring concatenation:
+
