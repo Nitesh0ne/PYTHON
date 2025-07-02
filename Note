@@ -345,3 +345,83 @@ list   Tuple
 
 =========================================================
 Session 13 
+Set in Python 
+
+- Duplicate are not allowed 
+- Insertion Order is not presercved
+- used  when 
+- set is mutable 
+Important function of Set 
+
+ deep copy and sallow copy 
+
+ set_name.pop()
+ set_name.remove(element) : give the error if element is not present
+ set_name.discard(element) : does not give erroe if element is not present 
+ set_name.clear() : clear the set
+
+Mathematical Operation on set
+
+Union : s1.union(s2)
+Intersection : s1.intersection(s2)
+Difference : s1.difference(s2)
+Symmetric Difference (xor): s1.symmetric_difference(s2)
+
+Membership Operator : in and not in 
+
+No provision of Mathematical Operator like + , * and comparison operator <,>etc
+
+Set Comprehensive: The Process of creating set.
+
+s = {x for  x in range(40) of  x%2==0}
+
+- Indexing and Slicing is not applicable
+-
+======================================================
+Dictionary in python:
+Key value 
+- duplicate value are allowed.
+- if key is duplicated, then the value is replaced by latest value.
+- Heterogenous  element are allowed for both key and value 
+- insertion order is not preserved, so indexing and slicing is not possible
+
+
+# Accessing the element of dictionary
+ =====================================================
+ session 14
+ Function in Python:
+
+ - DRY Principle 
+ - Code Reusability.
+ 
+ TYpes of Function :
+1. built-in Function : define by pyhton 
+2. user-define Function : define by user 
+
+def function_name (parameter):
+    '''doc string'''
+    function body
+    function body
+    function body
+    return value
+
+ function parameter : parameter is define when function is defined 
+
+ function argument : argument is pass when function is call
+
+ Function Argument :
+ there are 4 types of argument 
+ 1. positional arguments  : argument are passed to parameer based on their position.
+
+ 2. keyword arguments : argument are passed based on the key
+ 
+ while  passing positional and keyword argument,    positional argument should be given first and keyword argument
+
+ 3. default arguments : default argument should be define at the last
+ 
+ 4. variable length arguments : 
+ *args : variable length arguments
+ **kwargs : variable length keyword arguments
+
+
+
