@@ -10,6 +10,8 @@
 
 # Data Type in Python 
 
+# integer in python
+
 # a  = 0XFACE
 
 # print(a) 
