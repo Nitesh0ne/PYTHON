@@ -54,7 +54,22 @@ Data Types : what type of the data is like integer, float , character, string bu
 - can be represented as binary, decimal, octal or hexadecimal
     binary 0b10101 , ocatal 0o1234, decimal 243, hexadeximal 0xf45
 
+can be represented in binary , octal , decimal and hexadecimal form 
+example:
+a = 10     : decimal     form
+a = 0b1010 : binary      form 
+a = 0o12   : Octal       form
+a = 0xa    : Hexadecimal form 
+
+default is decimal, 
+Base conversion method.
+bin() // binary 
+oct() // oct
+hex() // hexadecimal
+
 2. Float : there is decimal number e.g 10.023 
+
+a = 1.2e3 (i,e 1.2 * 10 ko power 3)
 
 ==============================================
 session 3:
@@ -425,3 +440,70 @@ def function_name (parameter):
 
 
 
+=========================================================
+Session 15
+
+Types of Variable in Functional Programming
+
+1. Global variable : define outside the function 
+2. Local Variable : define inside the function
+
+globld()
+
+
+Recursive Function : 
+
+maximum recursive depth 
+
+lamda function
+=======================================================
+Session 16 :
+Modules 
+
+- For code Reusability 
+- length of code is decreade and Readability increase
+- Member aliasing 
+- Module aliasing
+
+
+
+Various possibilities of import 
+1. import moudule_name
+2. import moudlename1, module_name2
+3. import moudule_name as module 
+4. imoort moudule_name as m 
+
+
+Module conflict:
+
+
+Reloading of Module
+
+
+===========================================================
+session18
+
+===========================================================
+session 19
+
+===========================================================
+Session 21 :
+
+Garbage Collector: 
+
+import sys
+print(sys.getrefcount(t))
+
+
+
+
+===========================================================
+Session 22: 
+IS_A Relation (InHeritance)
+
+The process of creating a new classes based on some existing class is called inheritance
+
+
+
+SOme Rules 
+1.  Create object of child class always
