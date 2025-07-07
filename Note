@@ -99,7 +99,7 @@ Fundamental data type : int, float, complex, bool, string
 e,g 
 a = 10 
 print(id(a))
-
+  
 a =20
 print(id(a))
 
@@ -110,29 +110,35 @@ Session 4 :
 Collection related datatype:
 list, tuple, set, frozenset, dict, range, bytes, bytesarray
 
-i. List =  insertion order are preserved, duplicate values are allowed, heteregenous object are allowed.
+1. List =  insertion order are preserved, duplicate values are allowed, heteregenous object are allowed.
 e.g list_name = [12, 10.5 "value2", 12]
     list_name = [] # empty list
 someof method in list:
     append(), remove(), 
 
-ii. Tuple : Exactly as list but immutable.
+2. Tuple : Exactly as list but immutable.
     e.g tuple_name = (1,) : , is necessary
 
-iii. Set : Duplicate value are allowed and insertion order are not preserved
+3. Set : Duplicate value are allowed and insertion order are not preserved
 
-Frozenset = ther are immutable
+4. Frozenset = ther are immutable
+ set is mutable and frozen set is immutable 
+ 
+ fs= frozenset(s)
 
-iv. Dictionary: 
+5. Dictionary: 
         key vlaue pair
 
-v.  Range: sequence of number
+6. Range: sequence of number
 
-vi. bytes : Collctionn of bytes. 
+7. bytes : Collection of bytes. 
+
 
 e.g b = [10,20,30,40]
 by = bytes[b]
 print  (type(by))
+
+8. None =  
 
 ===============================================
 Session 5:
