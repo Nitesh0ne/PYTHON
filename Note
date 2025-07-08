@@ -138,7 +138,7 @@ e.g b = [10,20,30,40]
 by = bytes[b]
 print  (type(by))
 
-8. None =  
+8. None
 
 ===============================================
 Session 5:
@@ -154,6 +154,15 @@ Comment in python
 
  no multi line python 
 
+ \n = new line 
+ \t = tab 
+ \r = cariage return 
+ \b = backspace
+ \v = vertical tab
+ \' = single quotation
+ 
+
+--------------------------------
 
 Operator in python
 1. Arithmetic Operator 
@@ -169,6 +178,13 @@ Operator in python
     ii. Membership Operator
 
 1. Arithmetic Operator:
+    - Addittion = + 
+    - subtraction = - 
+    - Multiplication = * 
+    -  Division = /
+    - Moudlo = % 
+    - Floor division =//
+    - Power operator = ** 
 2. Reltional Operator:
     ord("A") : print the ascii value of A 
     
