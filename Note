@@ -200,10 +200,19 @@ Operator in python
     
 
 6. Equality Operator: == , !=
+===========================================================
+
 
 7. Ternary Operator / conditional Operator :
-    syntax: x = first value if condition else second value:
-    e,g a = 
+    came with three operand
+
+    syntax:
+    x = <value_if _true> if <condition> else <vlaue_if_false>
+    e,g a = 20 if 20>30 else 30
+
+Nesting od ternary operator
+
+max = <first_num> if <first_num> > <second_num> and <first_num> > <third_num> else  <second_num> if <second_num> > <thrid_num> else <thid_num>
 
 8. Special Operator: 
     i. Identity Operator: 
@@ -211,13 +220,20 @@ Operator in python
         b. is not 
         both are used for address comparison of variable 
 
-        is and == 
-        is check the address of variable while == check the value of variable.
+        is vs == 
+        is check the address of variable while == check the value of variable. 
 
     ii. Membership Operator:
         a. in 
         b. not in 
 
+# operator precedence
+precedence 
+1. ()
+2. **
+3. ~
+4. 
+# precedence and assoxiativity
 
 Math Module:
 
