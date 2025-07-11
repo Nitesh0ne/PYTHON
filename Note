@@ -251,7 +251,7 @@ split() = function
 > Command line Argument
 # NOTE : IN COMMAND LINE ARGUMENT ALWAYS USE DOUBLE QUOTATION FOR STRING
 
-argparse
+# assignment = argparse
 
 python output statement 
 using print() function
@@ -288,7 +288,12 @@ Flow Control In python
             if condition 2 is true
         else:
             if all avobe condition is false
-iv Switch statement
+# Assignment           
+# WAP to find smallest of given 2 numbers
+# WAP to find smallest of given 3 numbers
+# WAP to find given number is odd or even
+2 Switch Statemnt 
+
 
 sub = input("Enter  a fav sub of Engineering :")
 
