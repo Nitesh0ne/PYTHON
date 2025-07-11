@@ -305,9 +305,12 @@ sub = input("Enter  a fav sub of Engineering :")
 # #     case _:
 # #         print("no subject")
 
+# assignment = upto one trillion
+
 ==================================================
 Session 9:
 Iterative Statement(Loop)
+there is no provision of do while loop in python
 
 1. FOR LOOP  (used when the no of iteration is fixed and wll  known)
 
@@ -316,7 +319,11 @@ syntax: for x in sequence:
 
 2. While LOop(Loop run until the condition is true )
 
-3. Loop with else block (else will run when loop is executed)
+3. infinite loop :
+
+4. Nested Loop:
+
+5.  Loop with else block (else will run when loop is executed)
 for x in sequence:
 
 else
