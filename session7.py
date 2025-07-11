@@ -1,3 +1,42 @@
+# a = input("Enter two number : ")
+# print(a)
+# print(type(a))
+# b = a.split()
+# print(b)
+# print(type(b))
+ 
+
+# c = {int(x) for x in b } # list comprehnsive 
+
+# print(c)
+# print(type(c))
+
+
+
+
+
+
+
+
+
+# x = eval("10+20+30")
+# print(type(x))
+# print(x)
+
+# from sys import argv
+
+# print(type(argv))
+
+# print(argv)
+
+
+# print("Hello ",end="|")
+# print("Nitesh",end="")
+
+
+
+
+
 # a,b= [int(x) for x in input("Enter a two number: ").split(",")] # list comprehensive and unpacking of list
 # print("The sume is", a+b)
 

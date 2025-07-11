@@ -200,7 +200,8 @@ Operator in python
     
 
 6. Equality Operator: == , !=
-===========================================================
+====================================================
+Sesssion 6
 
 
 7. Ternary Operator / conditional Operator :
@@ -240,18 +241,23 @@ Math Module:
 ===========================================================
 Session 7: 
 
-Python Input
+Python Input"
+split() = function
 
 > List Comprehensive 
 > Unpacking Of List
 > eval function
+
 > Command line Argument
 # NOTE : IN COMMAND LINE ARGUMENT ALWAYS USE DOUBLE QUOTATION FOR STRING
 
-argeparse
+argparse
 
-python outpur statement 
+python output statement 
+using print() function
 > string concatenation and string repetition
+ String Concatenatio= + 
+ String Repetition = $* 
 
  sep="|" : seperator
  end=" "
