@@ -421,15 +421,18 @@ Set in Python
 
 - Duplicate are not allowed 
 - Insertion Order is not presercved
-- used  when 
+- used  when  we want unique values
 - set is mutable 
+
+
 Important function of Set 
 
  deep copy and sallow copy 
 
+set
  set_name.pop()
  set_name.remove(element) : give the error if element is not present
- set_name.discard(element) : does not give erroe if element is not present 
+ set_name.discard(element) : does not give error if element is not present 
  set_name.clear() : clear the set
 
 Mathematical Operation on set
@@ -444,9 +447,7 @@ Membership Operator : in and not in
 No provision of Mathematical Operator like + , * and comparison operator <,>etc
 
 Set Comprehensive: The Process of creating set.
-
-s = {x for  x in range(40) of  x%2==0}
-
+s = {x for  x in range(40) if  x%2==0}
 - Indexing and Slicing is not applicable
 -
 ======================================================
@@ -459,6 +460,12 @@ Key value
 
 
 # Accessing the element of dictionary
+# Converting list into  tuple 
+# Aliasing and cloning of dictionary 
+# dictinary comprehensive
+
+# merging of collection
+
  =====================================================
  session 14
  Function in Python:
