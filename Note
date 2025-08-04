@@ -490,7 +490,7 @@ def function_name (parameter):
 
  Function Argument :
  there are 4 types of argument 
- 1. positional arguments  : argument are passed to parameer based on their position.
+ 1. positional arguments  : argument are passed to parameter based on their position.
 
  2. keyword arguments : argument are passed based on the key
  
