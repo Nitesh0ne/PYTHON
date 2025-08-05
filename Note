@@ -509,13 +509,31 @@ Session 15
 
 Types of Variable in Functional Programming
 
-1. Global variable : define outside the function 
-2. Local Variable : define inside the function
+1. Global variable : define outside the function, scope is all program 
+2. Local Variable : define inside the function, scope inside the function only , we can make loval varibale into gloabal by  using global keyword.
+ 
+Recursive Function :  the function that call by itself,
+    Recursive fucntion should have termination criteria.
 
-globld()
+Anonymous function or (Lamda function) : The function that have no name or use for temporary purpose 
+
+we use lamda function when we have to pass function as argument
+
+filter()
+map()
+reduce()
+
+example: 
+s = lamda n:*n
 
 
-Recursive Function : 
+Everything in python is object
+Function aliasing = providing another name to the function
+
+
+Nested fucntion = function iside another fucntion
+
+
 
 maximum recursive depth 
 

@@ -46,7 +46,7 @@
 # Default argument
 
 
-****************Variable length Argument***************
+#****************Variable length Argument***************
 # def function_name(a, *args):
 #     print(a)
 #     print(args)
