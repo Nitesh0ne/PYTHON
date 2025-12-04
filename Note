@@ -531,7 +531,7 @@ Everything in python is object
 Function aliasing = providing another name to the function
 
 
-Nested fucntion = function iside another fucntion
+Nested fucntion = function inside another fucntion
 
 
 
@@ -544,8 +544,9 @@ Modules
 
 - For code Reusability 
 - length of code is decreade and Readability increase
-- Member aliasing 
-- Module aliasing
+- Member aliasing  = 
+- Module aliasing == Providing another name to the modules
+    e,g import modules as m 
 
 
 
@@ -553,7 +554,13 @@ Various possibilities of import
 1. import moudule_name
 2. import moudlename1, module_name2
 3. import moudule_name as module 
-4. imoort moudule_name as m 
+4. import moudule_name1 as m1, module_name2  as m2
+5. from  module import member 
+6. from module import member1, member2
+7. from module import member as m 
+8. from module import member as m member as m1, member as m2 
+9. from moudle import * 
+
 
 
 Module conflict:
@@ -561,17 +568,64 @@ Module conflict:
 
 Reloading of Module
 
+help() = 
+dir() = list all member of the  fucntion
 
 ===========================================================
-session18
+session17
+random module, otp generation and generating fake employee record 
 
+
+Python package
 ===========================================================
-session 19
+Session 18 
+Object Oriented programming
+1. Class.
+2. object.
+3. Reference Variable.
+
+Class and Object are the fundamental concept for the OOP.
+classes is blueprint for creating a  object.
+While object is the instances of classes .
+classes have properties(variables) and action(method)  that object inherit while we create object.
+
+
+
+==============================
+Session 19 :
+Types of variable according to OOP :
+There are 3 types of variable
+1. Instance Variable (Object level variable)
+   --> value is differ from object  to object 
+2. Static Variable (static level variable)
+3. Local Variable (method level variable)
+TYpes of Method :
+1. Instance Method.
+2. Class Method.
+3. Static Method 
+
+
+
+1. Instance Variable => value of instance variable differ from object to object.
+
+3. static variable => 
+==========================================================
+Session 20 
+Types of Method in  python classes
+
+1. Instance Method 
+    i. at least one refrence variable 
+    ii. 1 argument i,e _self
+    
+2. Class Method 
+3. Static Method
+
+
+
 
 ===========================================================
 Session 21 :
-
-Garbage Collector: 
+Garbage Collection/ Garbage collector
 
 import sys
 print(sys.getrefcount(t))
@@ -589,3 +643,8 @@ The process of creating a new classes based on some existing class is called inh
 
 SOme Rules 
 1.  Create object of child class always
+======================================================================
+
+Session 24:
+
+===============================================

@@ -1,7 +1,10 @@
+# ** PYTHON MODULES ***
+from modules import sum,sub,modulue_ko_Variable as ma
 
-a = 100 
-def add(a,b):
-    print(" The sum is", a+b)
-def prod(c,d):
-    print("the Product is : " ,a*d)
 
+print(ma)
+print(sum(101,5))
+print(sub(100,99))
+
+
+print("HellO Nitesh Nepali jsdfjhsajdfblhaahsdoifhasdfsadfadsfjdsbfbbckjxbafsdnkdfjasdjfn")
