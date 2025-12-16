@@ -8,3 +8,9 @@
 # print(gc.isenabled())
 
 # Destructor 
+
+# def __init__(self): ==> constructor
+# def __del__(self): ==> destructor
+
+
+

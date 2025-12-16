@@ -1,21 +1,33 @@
-class Parent_1:
-    def parent_1_message1(self):
-        print("This is parent One class")
+# Single Inheritance 
 
-class Parent_2:
-    def parent_2_message1(self):
-        print("This is parent Two class")
+# class P:
+#     def m1():
+#         print("This is method of the parent class")
+    
 
-class Child1(Parent_1,Parent_2):
-       def child1_message1(self):
-        print("This is Child1 class")
+# class C(P):
+#     def m2():
+#         print("This is method of the child class")
 
-class Child2(Parent_1):
-       def child2_message1(self):
-        print("This is Child2 class")
+# c1 = C
+# c1.m1()
+# c1.m2()
 
-c_1 = Child1()
-c_1.parent_1_message1()
-c_1.parent_2_message1()
+# MultiLevel  Inheritance
+
+# class A:
+#     def m1():
+#         print("This is the method of parent class")
+# class B(A):
+#     def m2():
+#         print("This is the method of Child One class")
+
+# class C(B):
+#     def m2():
+#         print("This is the method of Child Two class")
+
+# c = C 
+# c.m1()
 
 
+# Hierarchial Inheritance 

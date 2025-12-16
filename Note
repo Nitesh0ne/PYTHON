@@ -628,7 +628,26 @@ Session 21 :
 Garbage Collection/ Garbage collector
 
 import sys
-print(sys.getrefcount(t))
+print(sys.getrefcount(t)) == to print the number of reference variable of the object.
+
+
+Destructor : 
+
+
+constructo vs Destructor 
+
+__init__(self)                   __del__(self)
+initialization                  cleanup/ resource     deallocation
+As soon as object is made       Just before The gc destroy the object
+
+----------------------------------------------------------
+Using Members of One Class inside Another Class.
+
+1. HAS-A Relation (composition)
+2. IS-A Relation  (Inheritance) ****Imp****
+
+
+
 
 
 
@@ -645,6 +664,38 @@ SOme Rules
 1.  Create object of child class always
 ======================================================================
 
-Session 24:
+Session 23:
+TYPES OF INHERITANCE
 
+1. Single Inheritance
+==> There is one parent class and child class
+
+2. Multi-Level Inheritance
+==> there is multiple level  child class that inherit the properties of parent class
+
+3. Hierarchial Inheritance
+==> There is multiple child class  of  one parent class.
+
+
+4. Multiple Inheritance
+==> If a child  have multiple  parent class 
+
+5. Hybrid Inheritance ****very very important
+==> It is the combination of different  type inheritance
+
+
+MRO = ****method resolution order**** || C3 ALgorithm == devolped by samuele Pedroni
+
+MRO(X) = X + Merge (MRO)
+
+
+6. Cyclic Inheritance ==python does not support cyclic inheritnance
+
+
+Super Method ***** Very Very Important ******
+
+
+
+SOme Rules 
+1.  Create object of child class always
 ===============================================
