@@ -26,7 +26,7 @@
 # str2 = 'This is string'
 # str3 = '''This is string'''
 # str4 = '''4df'''
-# print("all the format is acceptable",str1)
+# print("all the format i acceptable",str1)
 # print("all the format is acceptable",str2)
 # print("all the format is acceptable",str3)
 # print("all the format is acceptable",str4)
@@ -69,7 +69,7 @@ print("---------------------------------------------------------")
 c = 10.5 + 3j # complex
 print("complex number cannot be converted into integer")
 #  # coverting into integer 
-print("complex number cannot be converted into complex")
+print("complex number cannot be converted into float")
 print("Converted b into boolean",bool(c)) # converting into boolean 
 print("Converted b into string",str(c)) #
 

@@ -14,7 +14,7 @@ Why is python.
     Freeware : we do to have to pay any money to use the python
     Opensource: Source code of python is openly avalibale
 - python is platform independent
--  Interpreted language
+- Interpreted language
 - python is portable 
 - python is extensible 
     python + java = jython
@@ -268,7 +268,7 @@ Flow Control In python
     in python flow control of code is managed by indentation
 
 1. conditional Statement 
-    if, if-elif , if-elif-else, if-elif
+    if, if-else , if-elif-else, if-elif
     switch
 2. Iterative statement /Loop
     for and while 
@@ -353,7 +353,6 @@ Accessing the characters of a string:
 
 string repetation :
 sstring concatenation:
-
 ===============================================================
 ===========================================================
 session 12 
@@ -701,3 +700,11 @@ SOme Rules
 ===============================================
 
 session 24
+
+================================================
+Session 25
+
+===============================================
+session 30 
+
+File Handling 
